@@ -19150,5 +19150,12 @@
     "author": "Zafrem",
     "description": "Switch between different work roles (developer, writer, researcher, etc.) with intentional transitions and session tracking.",
     "repo": "zafrem/obsidian-role-switch"
+  },
+  {
+    "id": "git-glass",
+    "name": "Git Glass",
+    "author": "Josh McCann",
+    "description": "Git Glass is a hybrid synchronization engine for Obsidian that bridges desktop power and mobile portability. Native Git on desktop for full speed and reliability · GitHub API on mobile for zero-setup · one plugin, for every device.",
+    "repo": "ArtisticMusician/Git-Glass_plugin"
   }
-]
+}
